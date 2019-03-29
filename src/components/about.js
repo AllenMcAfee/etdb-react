@@ -32,7 +32,7 @@ class About extends Component {
 				    <div>
 				      <h3>All the tools you need to authenticate, publish, and license your 3D files.</h3>
 				      <div id="reddiv"></div>
-				      <p>I3DRM is not a marketplace, so you keep more of your revenue.  It’s not a storage center, so we don’t own your files.  It’s not a walled-garden, so you’re free to host and sell anywhere.</p>
+				      <p>3DRM is not a marketplace, so you keep more of your revenue.  It’s not a storage center, so we don’t own your files.  It’s not a walled-garden, so you’re free to host and sell anywhere.</p>
 							<p>So what is it?  It’s a publishing platform you can use to:</p>
 							<ls>
 								<li>Set licensing terms how you want.  Use open source licenses, or charge a fee.  It’s up to you.</li>
@@ -51,7 +51,7 @@ class About extends Component {
 				  <div className="col-sm-6">
               <h3>Built with Blockchain</h3>
 				      <div id="reddiv"></div>
-							<p>ETDB is an experiment in distributing large scientific datasets using the OIP specification. The addresses of the tomograms, and their corresponding metadata, are stored in the public FLO blockchain and the tomogram files are stored in the IPFS network. While etdb.caltech.edu offers one way to access the database, users are free to create their own applications to retrieve and interact with the data.</p>
+							<p>3DRM is an experiment in distributing 3D artifacts using the OIP specification. The addresses of the models, and their corresponding metadata, are stored in the public FLO blockchain and the 3D files are stored in the IPFS network. While 3drm.io offers one way to access the database, users are free to create their own applications to retrieve and interact with the data.</p>
 
 							<p> A blockchain uses peer-to-peer networking to achieve network consensus without central points of failure, making it a public digital ledger which anyone can contribute to or audit, and no one can alter.</p>
 					</div>
@@ -60,7 +60,8 @@ class About extends Component {
 							<p>The <a target="blank" href="https://ipfs.io/">Inter Planetary File System (IPFS)</a> is a file transport protocol and network designed to create a content-addressable, peer-to-peer method of storing and sharing content in a distributed file system.</p>
 
 							<p>The <a target="blank" href="https://oip.wiki/Main_Page">Open Index Protocol (OIP)</a> specification defines standard use of these technologies; it uses the <a target="blank" href="https://flo.cash">FLO blockchain</a> to index metadata and IPFS to store files. The OIP system includes a transparent index, persistent file storage and permissionless access. The result is a robust, decentralized database open to anyone through open-source software.</p>
-				    </div>
+							<p>The <a target="blank" href="https://flo.cash">Flo Blockchain</a> is a fork of Litecoin (which is in turn a fork of Bitcoin) that allows us to include 1040 bytes of test at the end of a transaction.  This allows us to add metadata such as terms, creator data, IPFS address, and more to one of the oldest blockchains in use.</p>
+						</div>
 				  </div>
 				</div>
 				<div className="row" id="about">
