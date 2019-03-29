@@ -36,9 +36,9 @@ class About extends Component {
 							<p>So what is it?  It’s a publishing platform you can use to:</p>
 							<ls>
 								<li>Set licensing terms how you want.  Use open source licenses, or charge a fee.  It’s up to you.</li>
-								<li>Notarize your license, download location, and more using blockchain.  Once published, your terms cannot be altered or destroyed.</li>
+								<li>Notarize your license, IPFS address, and more using blockchain.  Once published, your terms cannot be altered or destroyed.</li>
 								<li>Host your files on the Interplanetary Filing System.  Make use of distributed storage to keep your files away from centralized control.</li>
-								<li>A useful first step to copyrighting your work. Licensed  files can be used by the US Copyright office as proof of published work.</li>
+								<li>A useful first step to copyrighting your work. Published artifacts can be used by the US Copyright office as proof of published work.</li>
 							</ls>
              <a className="browse" href="/challenges">View challenges <i className="fa fa-arrow-right" aria-hidden="true"></i></a>
 				    </div>
