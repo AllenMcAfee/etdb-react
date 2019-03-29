@@ -32,7 +32,7 @@ class About extends Component {
 				    <div>
 				      <h3>All the tools you need to authenticate, publish, and license your 3D files.</h3>
 				      <div id="reddiv"></div>
-				      <p>I3DRM is not a marketplace, so you keep more of your revenue.  It’s not a storage center, so we don’t own your files.  It’s not a walled-garden, so you’re free to host and sell anywhere.
+				      <p>I3DRM is not a marketplace, so you keep more of your revenue.  It’s not a storage center, so we don’t own your files.  It’s not a walled-garden, so you’re free to host and sell anywhere.</p>
 							<p>So what is it?  It’s a publishing platform you can use to:</p>
 							<ls>
 								<li>Set licensing terms how you want.  Use open source licenses, or charge a fee.  It’s up to you.</li>
