@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 import logo from '../assets/img/etdb-logo.png'
-import homePic from '../assets/img/etdb-home.png'
+import homePic from '../assets/img/3drm-home.png'
 
 class Home extends Component {
 	constructor(props){
