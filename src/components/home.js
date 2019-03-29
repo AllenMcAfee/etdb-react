@@ -47,8 +47,8 @@ class Home extends Component {
 				        <div id="menu">
 			          	<a href="/about">About</a>
 			          	<a href="/browse">Browse Database</a>
-			          	<a href="/featured">Featured Artifacts</a>
-			          	<a href="/challenges">Challenges</a>
+			          	<a href="/featured">Featured Tomograms</a>
+			          	<a href="/challenges">Scientific Challenges</a>
 			          	<a href="/contact">Contact</a>
 			          </div>
 				      </div>
@@ -64,8 +64,8 @@ class Home extends Component {
 				  <div className="col-sm-6" id="homesecondary">
 				    <div>
                         <h4>Welcome to the</h4>
-				      <h3>3DRM Database</h3>
-				      <h6>A better way to publish your work.</h6>
+				      <h3>3D Digital Rights Management Database</h3>
+				      <h6>3DRM is a blockchain-protected publishing platform tailored for 3D content, made for the content-addressable web.  With it you can protect, publish, and even monetize your work anywhere on the web.</h6>
 				      <a className="browse" href="/browse">Browse database <i className="fa fa-arrow-right" aria-hidden="true"></i></a>
 				   <a class="termsandconditions" href="/terms">View our terms and conditions</a>
                     </div>
