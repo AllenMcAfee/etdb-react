@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-import logo from '../assets/img/3drm-logo.png'
+import logo from '../assets/img/logo.png'
 
 function change_favicon(img) {
     var favicon = document.querySelector('link[rel="shortcut icon"]');
