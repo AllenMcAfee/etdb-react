@@ -55,6 +55,14 @@ class Home extends Component {
 				    </div>
 				  </div>
 				</div>
+				
+				<div id="home-image">
+					<div id="home-image-container"><img src={homePic} />
+						<p>SpaceX BFR Concept Rocket</p>
+						<p>IPFS Hash: QmWdeS1igSK82ytysQkkLg3qsr15c9seHmNXaCf1UxHAFU</p>
+						<a href="http://www.cloudflare-ipfs.com/ipfs/QmWdeS1igSK82ytysQkkLg3qsr15c9seHmNXaCf1UxHAFU"><p>Download from the Interplanetary Filing System</p></a>
+				 </div>
+				</div>
 
 				<div className="row" id="homecontent">
 				  <div className="col-sm-6" id="homehero"></div>
@@ -67,15 +75,6 @@ class Home extends Component {
 				   		<a class="termsandconditions" href="/terms">View our terms and conditions</a>
             </div>
 				  </div>
-				</div>
-
-
-				<div id="home-image">
-					<div id="home-image-container"><img src={homePic} />
-						<p>SpaceX BFR Concept Rocket</p>
-						<p>IPFS Hash: QmWdeS1igSK82ytysQkkLg3qsr15c9seHmNXaCf1UxHAFU</p>
-						<a href="http://www.cloudflare-ipfs.com/ipfs/QmWdeS1igSK82ytysQkkLg3qsr15c9seHmNXaCf1UxHAFU"><p>Download from the Interplanetary Filing System</p></a>
-				 </div>
 				</div>
 		</div>
 		)
